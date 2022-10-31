@@ -1,2 +1,13 @@
-# data_analysis_python_bedu
-En este repositorio se encuentra el proyecto del equipo dos para la fase Anaálisis de Datos con Python de Santander Bedu.
+¡Hola a todos internautas!
+
+Este repositorio es el correspondiente al trabajo final del módulo Análisis de Datos con Python impartido por Bedu Santander. Dentro del notebook podrán encontrar todo los procedimientos que seguimos así como los datos que utilizamos. 
+
+Cabe aclarar que este es un trabajo de continuación de la fase anterior de dicho programa, el repositorio lo puedes encontrar en mi perfil. 
+
+
+
+Cualquier problema con este repositorio favor de comunicármelo al correo garciarr2018@licifug.ugto.mx
+
+
+
+$R_{\mu \nu } -\frac{1}{2}R g_{\mu \nu} = \frac{8\pi G}{c^{4}}T_{\mu \nu}$
